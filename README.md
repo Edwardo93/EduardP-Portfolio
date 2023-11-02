@@ -1,1 +1,1 @@
-# EduardP-Portofolio
+Please open index.html as Index.html/style.css/script.js/ are the main files for the main website page. Wehn oppening the index.html, there will be access to the other html files from within the main page. When resolution goes below 850px when pressed on the World Map and/or Flip Card game, the use will be redirected to a new full screen page. This give access for all the apps functionalities.
